@@ -10,4 +10,6 @@ Code should reproduce all figures in the corresponding paper:
 Jurre R. Veerman, Gwenael G.R. Leday, Mark A. van de Wiel (2019),"Estimation of variance components, 
 heritability and the ridge penalty in high-dimensional generalized linear models". Submitted.
 
+Code is written by the authors, except for Fridge (Hellton & Hjort, 2017, Stat Med) code, kindly provided by Kristoffer Hellton.
+
 Results folder contains all results as .Rdata files, as obtained by the authors.
